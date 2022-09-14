@@ -7,5 +7,5 @@ int main()
 	for(i='a'; i<='z'; i++)
 	printf("%c ",i);
 
-	return 0;
+	return 0,
 }
